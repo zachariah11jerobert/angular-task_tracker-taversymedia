@@ -19,9 +19,9 @@
       "reminder": true
     },
     {
-      "text": "Test Task",
-      "day": "May 7h",
-      "reminder": false,
+      "text": "Tset",
+      "day": "6th june",
+      "reminder": true,
       "id": 4
     }
   ]
